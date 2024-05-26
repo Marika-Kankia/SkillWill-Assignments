@@ -1,10 +1,12 @@
+package SecondAssignment;
+
 public class MyClass {
 
     // 1. დაწერე მეთოდი, რომელსაც გადაეცემა 4 რიცხვი და აბრუნებს ამ 4 რიცხვის საშუალოს;
     // 2. დაწერე მეთოდი, რომელსაც გადაეცემა 3 სტრინგი და აბრუნებს ამ სტრინგების სიგრძეების ჯამს;;
 
 
-    //დავწეროთ 2 static მეთოდი, რომლებსაც შემდეგ გამოვიძახებთ MainClass კლასში.
+    //დავწეროთ 2 static მეთოდი, რომლებსაც შემდეგ გამოვიძახებთ SecondAssignment.MainClass კლასში.
     public static  double average(double a, double b, double c, double d) {
         return (a + b + c + d) / 4;
     }
