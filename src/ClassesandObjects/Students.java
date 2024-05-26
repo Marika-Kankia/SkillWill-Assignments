@@ -80,7 +80,7 @@ public class Students {
         student2.setInternational(true);
 
         System.out.println("My Name is: " + student2.name);
-        System.out.println("I am: " + student2.age+" "+"Years old");
+        System.out.println("I am: " + student2.age+" "+ "Years old");
         System.out.println("My Major is: " + student2.major);
         System.out.println("My GPA is: " + student2.gpa);
         System.out.println("International: " + student2.isInternational);
